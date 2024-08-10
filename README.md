@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="h1-navbar">untuk wanita bernama Dinda Akila Aulia gw cuma mau bilang....</h1>
+        <h1 class="h1-navbar">untuk Dinda Akila Aulia gw cuma mau bilang....</h1>
         <button id="revealButton">Reveal</button>
 
         
